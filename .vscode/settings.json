@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///home/amul/Documents/CICD/Youtube-clone-app/deployment.yml"
+    }
+}
